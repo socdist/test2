@@ -1,0 +1,19 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "1. Create a repository on Github  2. ![Screenshot 2021-12-17 at 1 20 14 AM](https://user-images.githubusercontent.com/93516551/146418814-833b2fff-6379-416e-b8e6-fdd28d052c8b.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socdist/test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socdist/test2/issues"
+  },
+  "homepage": "https://github.com/socdist/test2#readme"
+}
