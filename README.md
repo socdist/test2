@@ -12,7 +12,7 @@ Generate your URL using Settings > Pages > Main Branch > /root >Save
 6. Set up your workflow which will notify you on Telegram when a change has been made to your repository.
 ![Screenshot 2021-12-17 at 3 13 48 AM](https://user-images.githubusercontent.com/93516551/146434031-696afa15-c087-43a4-a3f8-762a8b4836f3.png)
 
-#Things went downhill from here
+# Things went downhill from here
 
 I really wanted to build a Taylor Swift Lyrics bot and on version that I tried was pretty ok but I messed around with it too much. The next best thing was to link my glitch site because it was very pretty, featured my enthusiasm for TS and I was too tired to start from scratch.
 
