@@ -13,7 +13,7 @@ ody {
   }
   
   .hero-image {
-    background-image: url("assets/photo4.jpeg");
+    background-image: url("../../assets/photo4.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
