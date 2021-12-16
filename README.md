@@ -14,7 +14,7 @@ Generate your URL using Settings > Pages > Main Branch > /root >Save
 
 # Things went downhill from here
 
-I really wanted to build a Taylor Swift Lyrics bot and on version that I tried was pretty ok but I messed around with it too much. The next best thing was to link my glitch site because it was very pretty, featured my enthusiasm for TS and I was too tired to start from scratch.
+I really wanted to build a Taylor Swift Lyrics bot and for one of my attempts it was pretty ok but I messed around with it too much. The next best thing was to link my glitch site because it's pretty, features my enthusiasm for TS and I was too tired to start from scratch.
 
 I found this code that functioned like a workflow similar to the Telegram Notifs and I wanted to try it out.
 
