@@ -1,3 +1,5 @@
+This React App is something I hope to emulate at some point https://github.com/Roshy10/taylors-version
+
 # CI/CD workflows and Telegram notifs
 
 1. Create a repository on Github 
